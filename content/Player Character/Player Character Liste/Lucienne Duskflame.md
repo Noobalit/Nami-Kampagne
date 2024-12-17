@@ -1,4 +1,4 @@
-Einer der [[Player Character Index||Player Character]]
+Einer der [[Player Character Index|Player Character]]
 
 # Allgemeines
 - Spieler: Nico
