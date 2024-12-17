@@ -5,6 +5,7 @@ Einer der [[NPC Index|NPC's]] in der Welt
 - Alter: Gute Frage
 - Herkunft:[[Republik Nami]]
 - Beruflich: Knappe
+
 # Verbindungen
 - Familie
 	- [[Prinz Ognir von Niedergruft]] - Herr

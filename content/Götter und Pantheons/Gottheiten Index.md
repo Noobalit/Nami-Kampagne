@@ -3,9 +3,10 @@ Liste aller Übermenschlichen Wesen
 # Götter
 - [[Silvanus]]
 - [[Pelor]]
-- [[Durr]]
+- [[Dur]]
 - [[Iun]]
 - [[Majerne]]
+- [[Justitia]]
 
 # Teufel
 - [[Daela]]

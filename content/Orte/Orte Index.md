@@ -6,6 +6,7 @@ Liste aller Orte in der Welt
 - [[Greifenhorst]]
 - [[Grünhain]]
 - [[Namora (Hauptstadt)]]
+- [[Holly's Woods]]
 
 # Reich von Eisen und Kupfer (Eisenreich)
 [[Reich von Eisen und Kupfer (Eisenreich)]]

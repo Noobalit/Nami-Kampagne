@@ -18,15 +18,20 @@ Liste aller NPCs
 # Einflussreiche Persönlichkeiten
 - [[Evelyn Goras]]
 - [[Eris von Strah]]
+	- [[Hedwig, Eule von Strah]]
 
 # Politiker
 
-### Nami
+### Republik Nami
+- [[Neuer Präsident von Nami]]
 - [[Ehemaliger Präsident Konstantin Aberfield]]
 - [[Clarice Sterling]]
 - [[Lord Admiral]]
 - [[Finanzminister von Nami]]
 - [[Kriegsminister von Nami]]
+
+### Königreich Nami
+- [[König Maron von Niedergruft II. (Verstorben)]]
 
 ### Torgolia
 - [[Lord Cleatus Aran]]
@@ -52,3 +57,8 @@ Liste aller NPCs
 ### Elfen
 - [[Ivelios Suralin]]
 - [[Toretrik von Kuxkränzler-Norsburg]]
+
+# Weitere Personen
+- [[Holli's Vater]]
+- [[Holli's Mutter]]
+- [[Amelie Wood]]

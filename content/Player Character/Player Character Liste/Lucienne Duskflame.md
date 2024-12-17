@@ -5,9 +5,6 @@ Einer der [[Player Character Index|Player Character]]
 - Klasse: Barde/Warlock (ehemals Sorcerer)
 - Rasse: Tiefling 
 - Heimatdorf: [[Kornstadt]]
-- Familie:
-	- Vater: [[Robert Duskhill]] (Mensch)
-	- Mutter: [[Daela]] (Teufelin)
 - Patron: [[Lady Lumiel]]
 
 # Verbindungen
