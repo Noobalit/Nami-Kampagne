@@ -24,6 +24,6 @@ Einer der [[Player Character Index|Player Character]]
 	- [[Prinz Ognir von Niedergruft]]
 	- [[Charles Dowi]]
 	- [[Thelenor von Freikapp]]
-
+	- [[Phiirildrydairlyn]] - Ex-Freundin
 # Anmerkungen
 - Angefeindet in [[Greifenhorst]]

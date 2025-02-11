@@ -1,7 +1,3 @@
----
-title: WILKOMMEN!
----
-
 # Sehr Geehrte Besucher!
 
 ### Im weiteren Verlauf dieser Seite finden sie detailliert aufgearbitet alle Informationen über die Welt in der wir Leben, die Reiche welche Sie Beinhaltet, und die verschiedenen Aspekte, welche sie definieren

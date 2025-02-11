@@ -3,6 +3,7 @@ Liste aller NPCs
 # Enge Vertraute
 - [[Thelenor von Freikapp]]
 - [[Spätzle der Gigaspatz]]
+- [[Phiirildrydairlyn]]
 
 # Kontakte
 - [[Diego Strammschritt-Sackheim]]
@@ -14,21 +15,27 @@ Liste aller NPCs
 - [[Aaron der Harengon]]
 - [[Medara Silberschuppe]]
 - [[Luria]]
+- [[Ulfried Beesburry (Verstorben)]]
+- [[Gozar mit dem Haar]]
 
 # Einflussreiche Persönlichkeiten
 - [[Evelyn Goras]]
 - [[Eris von Strah]]
 	- [[Hedwig, Eule von Strah]]
 
-# Politiker
+# Politiker und Adel
 
 ### Republik Nami
-- [[Neuer Präsident von Nami]]
-- [[Ehemaliger Präsident Konstantin Aberfield]]
-- [[Clarice Sterling]]
-- [[Lord Admiral]]
-- [[Finanzminister von Nami]]
-- [[Kriegsminister von Nami]]
+- Politiker
+	- [[Neuer Präsident von Nami]]
+	- [[Ehemaliger Präsident Konstantin Aberfield]]
+	- [[Clarice Sterling]]
+	- [[Lord Admiral]]
+	- [[Finanzminister von Nami]]
+	- [[Kriegsminister von Nami]]
+- Adel
+	- [[Hektor von Freikapp]]
+	- [[Ariella von Freikapp]]
 
 ### Königreich Nami
 - [[König Maron von Niedergruft II. (Verstorben)]]
@@ -51,6 +58,7 @@ Liste aller NPCs
 # Händler und Dienstleister
 - [[Joe Kranich]]
 - [[Fred Kranich]]
+- [[Visenya die Tuchmacherin]]
 
 # Historische Persönlichkeiten
 
@@ -59,6 +67,7 @@ Liste aller NPCs
 - [[Toretrik von Kuxkränzler-Norsburg]]
 
 # Weitere Personen
-- [[Holli's Vater]]
-- [[Holli's Mutter]]
+- [[Oliver Wood]]
+- [[Teresa Wood]]
 - [[Amelie Wood]]
+- [[Robert Duskhill]]

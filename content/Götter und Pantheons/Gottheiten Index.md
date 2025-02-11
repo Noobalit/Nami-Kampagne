@@ -10,7 +10,9 @@ Liste aller Übermenschlichen Wesen
 
 # Teufel
 - [[Daela]]
-- [[Cambion Soldat]]
+- [[Adumicus]]
+- [[Arzog]]
+- [[Hamaran]]
 
 # Dämonen
 - [[Grydar]]

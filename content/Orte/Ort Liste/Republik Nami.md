@@ -9,7 +9,7 @@ Eines der [[Orte Index|Reiche]] das Existiert
 # Das 12er Kabinett
 ### Mitglieder
 - [[Clarice Sterling]] (Ministerin für Kultur und Werte)
-- [[Lord Admiral]] (Herr der Marine)
+- [[Neuer Marineminister]]
 - [[Kriegsminister von Nami]]
 - [[Finanzminister von Nami]]
 

@@ -4,14 +4,14 @@ Einer der [[Player Character Index|Player Character]]
 - Spieler: Anna
 - Klasse: Magierin
 - Rasse: Mensch
-- Herkunft: [[Holly's Woods]]
+- Herkunft: [[Hollie's Woods]]
 - Göttin: [[Iun]] [[Sternendeuter|(Sternendeuter)]]
 - Sprachen: Joa
 
 # Verbindungen
 - Familie
-	- [[Holli's Vater]] - Vater
-	- [[Holli's Mutter]] - Mutter
+	- [[Oliver Wood]] - Vater
+	- [[Teresa Wood]] - Mutter
 	- [[Amelie Wood]] - Schwester
 - Kontakte:
 	- [[Evelyn Goras]] - Idol
